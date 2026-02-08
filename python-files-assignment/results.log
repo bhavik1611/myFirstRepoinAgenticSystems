@@ -1,0 +1,6 @@
+[Info] File opened successfully
+[Warning] Line 'abc' is not an integer
+[Info] Read 5 numbers: [10, 20, 30, 40, 50]
+[Info] Sum: 150
+[Info] Average: 30.0
+[Info] Processing completed
